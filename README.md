@@ -40,6 +40,8 @@ Applying SVM for classification tasks in datasets.
 
 Libraries Used: 
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical computing and array manipulation.
+
 Matplotlib: For data visualization.
 
