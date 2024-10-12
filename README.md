@@ -39,6 +39,7 @@ An introduction to the KNN algorithm for classification and regression.
 Applying SVM for classification tasks in datasets.
 
 Libraries Used: 
+
 Pandas: For data manipulation and analysis.
 
 NumPy: For numerical computing and array manipulation.
